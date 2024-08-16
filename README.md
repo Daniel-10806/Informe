@@ -30,6 +30,8 @@
         <tr>
             <td>Medina Chocce, Karito Dianeth</td>
             <td>U20221C769</td>
+            <td>Chávarri Zarzosa, Daniel Jhared</td>
+            <td>U202211108</td>
         </tr>
         <tr>
             <td></td>
