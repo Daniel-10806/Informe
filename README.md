@@ -13,7 +13,7 @@
 
 <p align="center">
     <strong>Startup: Apple Web</strong><br>
-    <strong>Producto:DEBTGO</strong>
+    <strong>Producto: DEBTGO</strong>
 </p>
 
 <div style="text-align:center;">
