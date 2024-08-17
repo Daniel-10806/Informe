@@ -24,25 +24,25 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
             <td>Medina Chocce, Karito Dianeth</td>
             <td>U20221C769</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Sanchez Rios, Camila Cristina</td>
+            <td>U202210973</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Durand Vera, Gianfranco Angel</td>
+            <td>U20201f640</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Chávarri Zarzosa, Daniel Jhared </td>
+            <td>U202211108</td>
         </tr>
+         <tr>
+            <td>Duran Santander, Emilia Mercedes </td>
+            <td>U201914541</td>
+         </tr>
     </table>
 </div>
 
@@ -64,12 +64,29 @@
         </thead>
         <tbody>
             <tr>
-                <th>1.0</th>
-                <td>16/07/2024</td>
-                <td>Karito Medina</td>
-                <td>Creación de la carátula y principios</td>
-            </tr>
-        </tbody>
+                <th>TB1</th>
+                <td>2/08/2024</td>
+                <td>
+                    <ul>
+          <li>Karito Medina</li>
+          <li>Camila Sanchez</li>
+          <li>Gianfranco Durand</li>
+          <li>Daniel Chávarri</li>
+          <li>Emilia Duran</li>
+                    <ul>
+           </td>
+      <td>            
+             <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+</tbody>
 </table>
 
 <br><br>
@@ -209,6 +226,11 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 - [Anexos](#anexos)
 
 # Student Outcome
+ABET – EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos
+
 <table>
   <tr>
     <td><b>Criterio específico</b></td>
